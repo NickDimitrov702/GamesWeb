@@ -1,0 +1,7 @@
+.App {
+  /* width: auto; */
+  max-width: 1600px;
+  margin: auto;
+  height: 500vh;
+  background-color: rgba(78, 78, 177, 0.26);
+}
